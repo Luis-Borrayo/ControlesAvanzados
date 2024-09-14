@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlesAvanzados", "ControlesAvanzados\ControlesAvanzados.csproj", "{895D2E7B-8646-46A5-A877-13006FF7D517}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClasesVentas", "ClasesVentas", "{3F125C45-0DCD-4878-A20A-DFA37355CB44}"
+	ProjectSection(SolutionItems) = preProject
+		ClaseVenta.cs = ClaseVenta.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895D2E7B-8646-46A5-A877-13006FF7D517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895D2E7B-8646-46A5-A877-13006FF7D517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895D2E7B-8646-46A5-A877-13006FF7D517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895D2E7B-8646-46A5-A877-13006FF7D517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB08406-4CCB-4741-80D6-42F65418F45B}
+	EndGlobalSection
+EndGlobal
